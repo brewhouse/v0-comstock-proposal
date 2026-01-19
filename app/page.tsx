@@ -146,7 +146,7 @@ export default function SalesProposal() {
             )}>
               <div className="inline-flex items-center gap-2 bg-[#00aec5]/10 text-[#00aec5] px-4 py-2 rounded-full text-sm font-medium mb-6">
                 <span className="w-2 h-2 bg-[#00aec5] rounded-full animate-pulse" />
-                Proposal for Comstock Magazine
+                Proposal for ABC Magazine
               </div>
             </div>
 
@@ -164,7 +164,7 @@ export default function SalesProposal() {
               "text-xl text-slate-600 leading-relaxed mb-8 max-w-2xl transition-all duration-700 delay-300",
               heroInView ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
             )}>
-              After 10+ years of trusted business journalism on Drupal 7, it's time for
+              After 15+ years of trusted business journalism on Drupal 7, it's time for
               a platform that matches your editorial excellence. Migrate to WordPress,
               protect your SEO equity, and unlock the ad technology your advertisers expect.
             </p>
@@ -498,7 +498,7 @@ export default function SalesProposal() {
             <h2 className="text-4xl font-bold mb-4">The Financial Opportunity</h2>
             <p className="text-xl text-emerald-200 max-w-3xl mx-auto">
               Regional business publications migrating from legacy platforms to WordPress report
-              <span className="font-bold text-white"> 415% ROI over three years</span>. Here's what that could mean for Comstock.
+              <span className="font-bold text-white"> 415% ROI over three years</span>. Here's what that could mean for ABC.
             </p>
           </div>
 
@@ -873,13 +873,13 @@ export default function SalesProposal() {
           </h2>
           <div className="bg-white rounded-2xl p-10 border border-slate-200 shadow-sm">
             <p className="text-xl text-slate-700 leading-relaxed mb-6">
-              "Comstock Magazine's 10+ years of editorial excellence deserves a platform that matches its ambition.
+              "ABC Magazine's 10+ years of editorial excellence deserves a platform that matches its ambition.
               Drupal 7 in 2025 is like driving a 2012 car in a race against 2024 competitors.
               You'll finish, but you'll be slower, more expensive to maintain, and less equipped for what's ahead."
             </p>
             <p className="text-lg text-slate-600">
               WordPress migration isn't a cost—it's a strategic investment. It unlocks operational efficiency.
-              It activates advertiser revenue potential. It positions Comstock for sustainable growth.
+              It activates advertiser revenue potential. It positions ABC for sustainable growth.
               And it delivers payback in under 6 months.
             </p>
           </div>
@@ -890,7 +890,7 @@ export default function SalesProposal() {
       <section className="py-20 px-6 bg-gradient-to-br from-[#00aec5] to-[#0891b2]">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold text-white mb-6">
-            Let's Modernize Comstock Together
+            Let's Modernize ABC Together
           </h2>
           <p className="text-xl text-white/90 mb-8">
             The urgency is real: security exposure escalates every month Drupal 7
@@ -908,7 +908,7 @@ export default function SalesProposal() {
             </Button>
           </div>
           <div className="mt-8 text-white/80 text-sm space-y-1">
-            <p>Prepared for <span className="font-medium text-white">Comstock Magazine Editorial & Business Leadership</span></p>
+            <p>Prepared for <span className="font-medium text-white">ABC Magazine Editorial & Business Leadership</span></p>
             <p className="text-white/60 mt-2">December 2024</p>
           </div>
         </div>
